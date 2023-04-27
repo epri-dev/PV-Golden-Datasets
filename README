@@ -1,1 +1,2 @@
-These datasets are created by intentionally inducing faults in PV plants. Their purpose is to validate fault detection algorithms.
+These datasets are created by intentionally inducing faults in PV plants. Their purpose is to validate fault detection algorithms. Please contact Daniel Fregosi dfregosi@epri.com for the labels for the faulted combiners.
+
