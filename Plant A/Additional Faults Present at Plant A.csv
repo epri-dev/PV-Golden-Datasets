@@ -1,0 +1,117 @@
+Inverter,Combiner Box,Fault Name
+1,3,Sub-Module Anomaly
+1,3,Suspected Shorted Diode(s)
+1,5,Hot Spot - Edge
+1,5,Vegetation
+1,6,Short Circuit
+1,6,Suspected Shorted Diode(s)
+1,11,Hot Spot - Edge
+1,11,Parallel Hot Spots
+1,11,Vegetation
+1,13,Multiple Cell - Hot
+1,13,Surface Fouling
+1,15,Parallel Hot Spots
+1,15,Surface Fouling
+1,16,Multiple Cell - Hot
+1,16,Vegetation
+1,17,Parallel Hot Spots
+1,17,Vegetation
+1,20,Hot Spot - Edge
+1,20,Surface Fouling
+2,2,Parallel Hot Spots
+2,2,Vegetation
+2,12,Sub-Module Anomaly
+2,12,Suspected Shorted Diode(s)
+2,13,Sub-Module Anomaly
+2,14,Sub-Module Anomaly
+2,15,Hot Spot - Edge
+2,15,Linear Cell Anomaly
+2,15,Sub-Module Anomaly
+2,15,Sub-Module Anomaly with Hot Spot(s)
+2,15,Vegetation
+2,18,Multiple Cell
+2,18,Sub-Module Anomaly
+2,18,Vegetation
+2,19,Multiple Cell - Hot
+2,19,Surface Fouling
+3,1,Parallel Hot Spots
+3,1,Vegetation
+3,2,Parallel Hot Spots
+3,2,Vegetation
+3,3,Parallel Hot Spots
+3,3,Sub-Module Anomaly
+3,3,Vegetation
+3,4,Hot Spot - Minor
+3,4,Parallel Hot Spots
+3,4,Vegetation
+3,6,Shaded String
+3,6,Shading
+3,6,Sub-Module Anomaly
+3,7,Parallel Hot Spots
+3,7,Vegetation
+3,8,Parallel Hot Spots
+3,8,Vegetation
+3,9,Linear Cell Anomaly
+3,9,Parallel Hot Spots
+3,9,Vegetation
+3,10,Parallel Hot Spots
+3,10,Vegetation
+3,11,Broken Module
+3,11,Parallel Hot Spots
+3,11,Sub-Module Anomaly with Hot Spot(s)
+3,11,Vegetation
+3,13,Sectional Outage
+3,16,Parallel Hot Spots
+3,16,Vegetation
+3,17,Multiple Cell - Hot
+3,17,Parallel Hot Spots
+3,17,Vegetation
+4,2,Shaded String
+4,2,Shading
+4,2,Short Circuit
+4,2,Suspected Shorted Diode(s)
+4,3,Multiple Cell
+4,6,Sub-Module Anomaly
+4,7,Short Circuit
+4,7,Sub-Module Anomaly
+4,7,Suspected Shorted Diode(s)
+4,10,Shaded String
+4,10,Shading
+4,11,Multiple Cell - Hot
+4,13,Broken Module
+4,13,Parallel Hot Spots
+4,13,Vegetation
+4,15,Multiple Cell - Hot
+4,15,Vegetation
+4,17,Multiple Cell - Hot
+4,17,Sub-Module Anomaly
+4,17,Vegetation
+4,19,Multiple Cell - Hot
+5,3,Parallel Hot Spots
+5,3,Sub-Module Anomaly
+5,3,Vegetation
+5,6,Parallel Hot Spots
+5,6,Surface Fouling
+5,6,Suspected Shorted Diode(s)
+5,7,Sub-Module Anomaly
+5,12,Parallel Hot Spots
+5,12,Vegetation
+5,14,Sub-Module Anomaly
+5,18,Sub-Module Anomaly
+5,18,Sub-Module Anomaly with Hot Spot(s)
+5,19,Broken Module
+5,19,Parallel Hot Spots
+5,20,Parallel Hot Spots
+5,20,Vegetation
+5,22,Broken Module
+5,22,Hot Spot - Hot
+6,5,Parallel Hot Spots
+6,5,Vegetation
+6,8,Sub-Module Anomaly
+6,11,Hot Spot - Minor
+6,11,Parallel Hot Spots
+6,11,Vegetation
+6,14,Parallel Hot Spots
+6,14,Sub-Module Anomaly
+6,14,Vegetation
+6,21,Sub-Module Anomaly
