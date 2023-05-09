@@ -1,0 +1,16 @@
+Inverter,Combiner Box,Data
+1,1,Sub-Module Anomaly
+1,2,Sub-Module Anomaly
+1,6,Sub-Module Anomaly
+2,1,Hot Spot - Edge
+2,2,Sub-Module Anomaly
+2,4,Sub-Module Anomaly
+2,6,Sub-Module Anomaly
+3,2,Sub-Module Anomaly
+3,4,Hot Spot - Edge
+3,5,Broken Module
+3,5,Multiple Cell
+3,5,Sub-Module Anomaly
+3,6,Hot Spot - Edge
+3,6,Sub-Module Anomaly
+3,6,Surface Fouling
